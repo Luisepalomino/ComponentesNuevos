@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">
+    <item>Goriloko</item>
+    <item>La pata del mameitor</item>
+    <item>Palomitas</item>
+    <item>Ivanloco</item>
+    <item>Danny Corredor</item>
+    <item>Palomino se la come</item>
+
+    </string-array>
+
+
+</resources>
